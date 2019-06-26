@@ -10,7 +10,7 @@ namespace DevopsPracticeMainApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Mishti");
+            Console.WriteLine("Hello Mishti !");
         }
     }
 }
