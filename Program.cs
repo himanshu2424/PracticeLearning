@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DevopsPracticeMainApp
+namespace HelloDevops
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Mishti !");
+            Console.WriteLine("Hello Devops");
         }
     }
 }

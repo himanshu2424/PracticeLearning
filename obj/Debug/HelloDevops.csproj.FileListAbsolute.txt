@@ -1,0 +1,6 @@
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\bin\Debug\HelloDevops.exe.config
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\bin\Debug\HelloDevops.exe
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\bin\Debug\HelloDevops.pdb
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\obj\Debug\HelloDevops.csprojResolveAssemblyReference.cache
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\obj\Debug\HelloDevops.exe
+d:\userdata\z003tytp\documents\visual studio 2012\Projects\HelloDevopsSolution\HelloDevops\obj\Debug\HelloDevops.pdb
