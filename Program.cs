@@ -12,6 +12,7 @@ namespace HelloDevops
         {
 
             Console.WriteLine("Hello Devops by Himanshu for Jenkins !!. Automated builds are now successfull.");
+		Console.ReadLine();
         }
     }
 }
