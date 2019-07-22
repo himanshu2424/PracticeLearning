@@ -11,7 +11,7 @@ namespace HelloDevops
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello Devops by Himanshu for Jenkins !!. Automated builds are now successfull. Connected MSBUILD as well. Hi Mishti. How are you");
+            Console.WriteLine("Hello Devops by Himanshu for Jenkins !!. Automated builds are now successfull. Connected MSBUILD as well. Hi Mishti");
 			Console.ReadLine();
         }
     }
