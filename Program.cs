@@ -25,7 +25,7 @@ namespace HelloDevops
                                   v.Count, v.Extension);
 								  
 			
-            Console.WriteLine("Hello Devops by Himanshu for Jenkins !!. Automated builds are now successfull. Connected MSBUILD as well. Hi Mishti...");
+            Console.WriteLine("Hello Devops by Himanshu for Jenkins !!. Automated builds are now successfull. Connected MSBUILD as well. Hi Mishti");
 			Console.ReadLine();
         }
     }
